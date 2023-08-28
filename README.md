@@ -48,7 +48,7 @@ The sun was shining brightly in the clear blue sky. It was a perfect day for a p
 
 #### Output
 
-- ![Listen DEMO](assets/output.wav) (.wav, ~2 min)
+- [Listen DEMO](assets/output.wav) (.wav, ~2 min)
 
 #### Performance
 
