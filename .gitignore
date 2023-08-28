@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment files
+.env
+
+# WAV sound files
+*.wav
