@@ -48,14 +48,14 @@ The sun was shining brightly in the clear blue sky. It was a perfect day for a p
 
 #### Output
 
-- [Listen DEMO](assets/output.wav) (.wav, ~2 min)
+- ![Listen DEMO](assets/output.wav) (.wav, ~2 min)
 
 #### Performance
 
 - 16.5 s *(Intel Xeon 2650 V3 + 32 GB RAM + NVIDIA 1060GB)*;
 - 5.1 MB output audio file.
 
-[Example](assets/screenshot.jpg)
+![Example](assets/screenshot.jpg)
 
 ## Dependencies
 
