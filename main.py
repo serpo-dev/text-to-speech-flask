@@ -1,7 +1,6 @@
 import asyncio
 from flask import Flask, jsonify, request, send_file, after_this_request
 from speech import get_speech_file_name
-import os
 
 APP = Flask(__name__)
 LOOP = asyncio.get_event_loop()
@@ -17,9 +16,5 @@ def generate_speech_file():
         message = {"message": str(e)}
         return jsonify(message), 404
     
-    
-   
-
-
 if __name__ == "__main__":
     APP.run()
