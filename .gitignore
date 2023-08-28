@@ -15,3 +15,4 @@ ENV/
 
 # WAV sound files
 *.wav
+!assets/*.wav
